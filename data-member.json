@@ -1,0 +1,480 @@
+{
+  "meta": {
+    "name": "High Table",
+    "server": "IME Roleplay",
+    "description": "The highest governing authority of the criminal underworld.",
+    "lastUpdated": "2026-01-16"
+  },
+  "members": [
+    {
+      "id": "don-vito",
+      "name": "Don Vito",
+      "role": "Godfather",
+      "tier": 1,
+      "oocName": "Delwyn Sukamto",
+      "social": {
+        "youtube": "https://youtube.com/@ceokopatalterego",
+        "instagram": "https://www.instagram.com/delwynsukamto",
+        "tiktok": "https://www.tiktok.com/@ceokopat_alterego"
+      }
+    },
+
+    {
+      "id": "aheng",
+      "name": "Aheng",
+      "role": "Consigliere",
+      "tier": 2,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "lilis",
+      "name": "Lilis",
+      "role": "Consigliere",
+      "tier": 2,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "marco",
+      "name": "Marco",
+      "role": "Consigliere",
+      "tier": 2,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "mbappe",
+      "name": "Mbappe",
+      "role": "Consigliere",
+      "tier": 2,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "gohan",
+      "name": "Gohan",
+      "role": "Keeper of Coins",
+      "tier": 2,
+      "oocName": "",
+      "social": {}
+    },
+
+    {
+      "id": "ace",
+      "name": "Ace",
+      "role": "Hand of the Table",
+      "tier": 3,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "bleed",
+      "name": "Bleed",
+      "role": "Hand of the Table",
+      "tier": 3,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "cung",
+      "name": "Cung",
+      "role": "Hand of the Table",
+      "tier": 3,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "enjoy",
+      "name": "Enjoy",
+      "role": "Hand of the Table",
+      "tier": 3,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "luca",
+      "name": "Luca",
+      "role": "Hand of the Table",
+      "tier": 3,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "zuca",
+      "name": "Zuca",
+      "role": "Hand of the Table",
+      "tier": 3,
+      "oocName": "",
+      "social": {}
+    },
+
+    {
+      "id": "catherine",
+      "name": "Catherine",
+      "role": "Head of Intel",
+      "tier": 4,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "sam",
+      "name": "Sam",
+      "role": "Head of Intel",
+      "tier": 4,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "king",
+      "name": "King",
+      "role": "Head of Enforcement",
+      "tier": 4,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "makoto",
+      "name": "Makoto",
+      "role": "Head of Arms",
+      "tier": 4,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "zono",
+      "name": "Zono",
+      "role": "Head of Arms",
+      "tier": 4,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "ical",
+      "name": "Ical",
+      "role": "Head of Comms",
+      "tier": 4,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "padim",
+      "name": "Padim",
+      "role": "Head of Comms",
+      "tier": 4,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "drax",
+      "name": "Drax",
+      "role": "Adjudicator",
+      "tier": 4,
+      "oocName": "",
+      "social": {}
+    },
+
+    {
+      "id": "aang",
+      "name": "Aang",
+      "role": "The Cleaner",
+      "tier": 5,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "ujang",
+      "name": "Ujang",
+      "role": "The Cleaner",
+      "tier": 5,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "kipli",
+      "name": "Kipli",
+      "role": "Hitman",
+      "tier": 5,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "matthew",
+      "name": "Matthew",
+      "role": "Hitman",
+      "tier": 5,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "paco",
+      "name": "Paco",
+      "role": "Hitman",
+      "tier": 5,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "parjo",
+      "name": "Parjo",
+      "role": "Hitman",
+      "tier": 5,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "ruby",
+      "name": "Ruby",
+      "role": "Hitman",
+      "tier": 5,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "theo",
+      "name": "Theo",
+      "role": "Hitman",
+      "tier": 5,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "yale",
+      "name": "Yale",
+      "role": "Hitman",
+      "tier": 5,
+      "oocName": "",
+      "social": {}
+    },
+
+    {
+      "id": "demi",
+      "name": "Demi",
+      "role": "Raven",
+      "tier": 6,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "jane",
+      "name": "Jane",
+      "role": "Raven",
+      "tier": 6,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "rival",
+      "name": "Rival",
+      "role": "Raven",
+      "tier": 6,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "velo",
+      "name": "Velo",
+      "role": "Raven",
+      "tier": 6,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "xing-rui",
+      "name": "Xing Rui",
+      "role": "Raven",
+      "tier": 6,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "xingyan",
+      "name": "Xingyan",
+      "role": "Raven",
+      "tier": 6,
+      "oocName": "",
+      "social": {}
+    },
+
+    {
+      "id": "iky",
+      "name": "Iky",
+      "role": "Shadow",
+      "tier": 6,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "jocelyn",
+      "name": "Jocelyn",
+      "role": "Shadow",
+      "tier": 6,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "massimo",
+      "name": "Massimo",
+      "role": "Shadow",
+      "tier": 6,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "upy",
+      "name": "Upy",
+      "role": "Shadow",
+      "tier": 6,
+      "oocName": "",
+      "social": {}
+    },
+
+    {
+      "id": "dixie",
+      "name": "Dixie",
+      "role": "Enforcer",
+      "tier": 6,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "kacak",
+      "name": "Kacak",
+      "role": "Enforcer",
+      "tier": 6,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "kevin",
+      "name": "Kevin",
+      "role": "Enforcer",
+      "tier": 6,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "lemon",
+      "name": "Lemon",
+      "role": "Enforcer",
+      "tier": 6,
+      "oocName": "",
+      "social": {}
+    },
+
+    {
+      "id": "cimory",
+      "name": "Cimory",
+      "role": "New Recruit",
+      "tier": 7,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "flashbang",
+      "name": "Flashbang",
+      "role": "New Recruit",
+      "tier": 7,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "jay",
+      "name": "Jay",
+      "role": "New Recruit",
+      "tier": 7,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "kentang",
+      "name": "Kentang",
+      "role": "New Recruit",
+      "tier": 7,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "ojan",
+      "name": "Ojan",
+      "role": "New Recruit",
+      "tier": 7,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "rel",
+      "name": "Rel",
+      "role": "New Recruit",
+      "tier": 7,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "val",
+      "name": "Val",
+      "role": "New Recruit",
+      "tier": 7,
+      "oocName": "",
+      "social": {}
+    },
+
+    {
+      "id": "eve",
+      "name": "Eve",
+      "role": "Assistant",
+      "tier": 8,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "gebu",
+      "name": "Gebu",
+      "role": "Assistant",
+      "tier": 8,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "mealyn",
+      "name": "Mealyn",
+      "role": "Assistant",
+      "tier": 8,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "yuni",
+      "name": "Yuni",
+      "role": "Assistant",
+      "tier": 8,
+      "oocName": "",
+      "social": {}
+    },
+
+    {
+      "id": "mochi",
+      "name": "Mochi",
+      "role": "Children",
+      "tier": 9,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "rea",
+      "name": "Rea",
+      "role": "Children",
+      "tier": 9,
+      "oocName": "",
+      "social": {}
+    },
+    {
+      "id": "rua",
+      "name": "Rua",
+      "role": "Children",
+      "tier": 9,
+      "oocName": "",
+      "social": {}
+    }
+  ]
+}
