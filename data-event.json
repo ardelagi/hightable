@@ -1,0 +1,31 @@
+{
+  "results": [
+    {
+      "id": "bf749984-5edf-447a-a758-99ac195c1bbb",
+      "title": "Motion Ime Fest",
+      "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1696424908/motionime/event/banner/mif-banner_qoq0yo.png",
+      "overview": "Motion Ime Fest adalah Festival Persembahan Motion Ime 500k members! Yang nantinya akan diisi dengan booth - booth komunitas yang seru, dan pastinya akan ada performance mulai dari Coswalk competition, performance artist, dan lain- lain!",
+      "link": "https://www.instagram.com/",
+      "type": "internal",
+      "date": "17-01-2026"
+    },
+    {
+      "id": "ef78b66b-1ca6-47a1-a8dd-5fa2118f65de",
+      "title": "Motion on Friday (MOF)",
+      "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694085376/motionime/event/banner/mof-banner_r0vksd.png",
+      "overview": "MOF is a stage for talent of all kinds. Are you a singer? A musical performer? MOF is a place where you can showcase your skills to a passionate audience from all corners of the world.",
+      "link": "https://discord.com",
+      "type": "badside",
+      "date": "17-01-2026"
+    },
+    {
+      "id": "52515fe4-9a8c-41c8-99ce-515d97af0160",
+      "title": "Nobar One Piece (Anime)",
+      "image": "https://res.cloudinary.com/dlzoyg2ox/image/upload/v1694085376/motionime/event/banner/op-banner_jy8lbg.png",
+      "overview": "Are you ready to sail the high seas with Luffy and the Straw Hat pirate crew in the incredible world of One Piece? Every Sunday morning, Motion Ime brings you the ultimate viewing experience with the latest One Piece episode like you've never experienced before.",
+      "link": "https://discord.com",
+      "type": "clipper",
+      "date": "17-01-2026"
+    }
+  ]
+}

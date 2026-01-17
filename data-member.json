@@ -3,7 +3,179 @@
     "name": "High Table",
     "server": "IME Roleplay",
     "description": "The highest governing authority of the criminal underworld.",
-    "lastUpdated": "2026-01-16"
+    "lastUpdated": "2026-01-17"
+  },
+  "roleDescriptions": {
+    "Godfather": {
+      "template": "{name} adalah pemimpin tertinggi High Table, memegang otoritas penuh atas seluruh keputusan strategis organisasi.",
+      "responsibilities": [
+        "Memimpin seluruh operasi High Table",
+        "Membuat keputusan strategis tertinggi",
+        "Menjaga keseimbangan kekuatan di underworld",
+        "Final authority dalam setiap dispute",
+        "Menentukan arah dan visi organisasi"
+      ]
+    },
+    "Consigliere": {
+      "template": "Sebagai Consigliere, {name} adalah penasihat tepercaya yang memberikan strategi dan analisis mendalam kepada Council.",
+      "responsibilities": [
+        "Memberikan nasihat strategis kepada Godfather",
+        "Menganalisis situasi politik dan ekonomi",
+        "Mediasi konflik internal",
+        "Perencanaan jangka panjang organisasi",
+        "Diplomasi dengan organisasi eksternal"
+      ]
+    },
+    "Keeper of Coins": {
+      "template": "{name} mengelola seluruh aset dan keuangan organisasi dengan presisi tinggi.",
+      "responsibilities": [
+        "Mengelola treasury dan investasi organisasi",
+        "Audit keuangan internal",
+        "Perencanaan anggaran strategis",
+        "Tracking revenue streams",
+        "Financial oversight untuk semua operasi"
+      ]
+    },
+    "Hand of the Table": {
+      "template": "{name} adalah eksekutor keputusan High Table di lapangan, tangan kanan yang menjalankan kehendak Council.",
+      "responsibilities": [
+        "Melaksanakan perintah langsung dari Council",
+        "Supervisi operasi lapangan",
+        "Koordinasi dengan division heads",
+        "Enforcement keputusan Council",
+        "Crisis management dan rapid response"
+      ]
+    },
+    "Head of Intel": {
+      "template": "Memimpin divisi intelijen, {name} mengumpulkan informasi kritis untuk keamanan dan strategi organisasi.",
+      "responsibilities": [
+        "Mengumpulkan dan menganalisis intelligence",
+        "Menjalankan operasi surveillance",
+        "Identifikasi ancaman dan peluang",
+        "Network informan dan sources",
+        "Briefing Council tentang situasi kota"
+      ]
+    },
+    "Head of Enforcement": {
+      "template": "{name} memimpin pasukan penegak dengan tangan besi, memastikan aturan ditaati.",
+      "responsibilities": [
+        "Memimpin tim enforcement",
+        "Menegakkan aturan organisasi",
+        "Koordinasi operasi keamanan",
+        "Discipline management internal",
+        "Training combat personnel"
+      ]
+    },
+    "Head of Arms": {
+      "template": "Bertanggung jawab atas persenjataan dan logistik, {name} memastikan organisasi selalu siap tempur.",
+      "responsibilities": [
+        "Procurement dan maintenance senjata",
+        "Logistik operasional",
+        "Training combat personnel",
+        "Inventory management",
+        "Supplier relationship management"
+      ]
+    },
+    "Head of Comms": {
+      "template": "{name} mengelola komunikasi internal dan eksternal organisasi, menjaga kerahasiaan dan efisiensi.",
+      "responsibilities": [
+        "Manage komunikasi terenkripsi",
+        "Koordinasi antar divisi",
+        "Public relations dan propaganda",
+        "Information security",
+        "Crisis communication management"
+      ]
+    },
+    "Adjudicator": {
+      "template": "{name} bertindak sebagai hakim dalam konflik internal dan eksternal, menegakkan keadilan menurut kode High Table.",
+      "responsibilities": [
+        "Mediasi perselisihan internal dan eksternal",
+        "Penegakan kode etik organisasi",
+        "Arbitrase dalam dispute resolution",
+        "Investigasi pelanggaran",
+        "Rekomendasi sanksi kepada Council"
+      ]
+    },
+    "The Cleaner": {
+      "template": "{name} adalah spesialis penghapusan jejak dan cleanup operations, memastikan tidak ada bukti yang tertinggal.",
+      "responsibilities": [
+        "Scene cleanup dan evidence disposal",
+        "Witness management",
+        "Cover operation coordination",
+        "Forensic counter-measures",
+        "Post-operation sanitization"
+      ]
+    },
+    "Hitman": {
+      "template": "{name} adalah pembunuh profesional yang bekerja atas perintah Council, eksekutor kehendak High Table.",
+      "responsibilities": [
+        "Eksekusi kontrak eliminasi",
+        "Tactical assassination operations",
+        "Stealth dan precision killing",
+        "Target surveillance dan reconnaissance",
+        "Contract completion dengan zero trace"
+      ]
+    },
+    "Raven": {
+      "template": "{name} adalah operator intelijen lapangan yang mengumpulkan informasi sensitif dari berbagai sumber.",
+      "responsibilities": [
+        "Field intelligence gathering",
+        "Infiltrasi dan reconnaissance",
+        "Covert operations support",
+        "Asset recruitment dan handling",
+        "Real-time intel reporting"
+      ]
+    },
+    "Shadow": {
+      "template": "{name} beroperasi di balik layar untuk mendukung misi-misi rahasia, invisible hand of the Table.",
+      "responsibilities": [
+        "Black ops support",
+        "Surveillance operations",
+        "Counter-intelligence activities",
+        "Deep cover operations",
+        "Deniable asset management"
+      ]
+    },
+    "Enforcer": {
+      "template": "{name} menegakkan aturan organisasi dengan kekerasan bila diperlukan, garda terdepan High Table.",
+      "responsibilities": [
+        "Enforcement operations",
+        "Intimidasi dan protection rackets",
+        "Street-level security",
+        "Debt collection",
+        "Territory patrol dan control"
+      ]
+    },
+    "New Recruit": {
+      "template": "{name} adalah rekrutan baru yang sedang membuktikan loyalitas dan kemampuan untuk naik dalam hierarki.",
+      "responsibilities": [
+        "Training dan orientasi",
+        "Menjalankan tugas entry-level",
+        "Belajar protokol organisasi",
+        "Observasi operasi senior members",
+        "Proving loyalty dan capability"
+      ]
+    },
+    "Assistant": {
+      "template": "{name} memberikan dukungan administratif dan operasional kepada senior members.",
+      "responsibilities": [
+        "Dukungan administratif",
+        "Koordinasi logistik",
+        "Information management",
+        "Scheduling dan coordination",
+        "Record keeping dan documentation"
+      ]
+    },
+    "Children": {
+      "template": "{name} adalah bagian dari keluarga internal High Table, dilindungi dan dipersiapkan untuk masa depan organisasi.",
+      "responsibilities": [
+        "Belajar tentang organisasi",
+        "Tugas-tugas ringan",
+        "Protected status",
+        "Education dan mentorship",
+        "Legacy preparation"
+      ]
+    }
   },
   "members": [
     {
@@ -12,35 +184,22 @@
       "role": "Godfather",
       "tier": 1,
       "oocName": "Delwyn Sukamto",
+      "discordId": "162567679280939008",
+      "imageUrl": "",
       "social": {
         "youtube": "https://youtube.com/@ceokopatalterego",
         "instagram": "https://www.instagram.com/delwynsukamto",
         "tiktok": "https://www.tiktok.com/@ceokopat_alterego"
       }
     },
-
     {
       "id": "aheng",
       "name": "Aheng",
       "role": "Consigliere",
       "tier": 2,
       "oocName": "",
-      "social": {}
-    },
-    {
-      "id": "lilis",
-      "name": "Lilis",
-      "role": "Consigliere",
-      "tier": 2,
-      "oocName": "",
-      "social": {}
-    },
-    {
-      "id": "marco",
-      "name": "Marco",
-      "role": "Consigliere",
-      "tier": 2,
-      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
     {
@@ -49,6 +208,28 @@
       "role": "Consigliere",
       "tier": 2,
       "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
+      "social": {}
+    },
+    {
+      "id": "lilis",
+      "name": "Lilis",
+      "role": "Consigliere",
+      "tier": 2,
+      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
+      "social": {}
+    },
+    {
+      "id": "marco",
+      "name": "Marco",
+      "role": "Consigliere",
+      "tier": 2,
+      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
     {
@@ -57,15 +238,8 @@
       "role": "Keeper of Coins",
       "tier": 2,
       "oocName": "",
-      "social": {}
-    },
-
-    {
-      "id": "ace",
-      "name": "Ace",
-      "role": "Hand of the Table",
-      "tier": 3,
-      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
     {
@@ -74,22 +248,8 @@
       "role": "Hand of the Table",
       "tier": 3,
       "oocName": "",
-      "social": {}
-    },
-    {
-      "id": "cung",
-      "name": "Cung",
-      "role": "Hand of the Table",
-      "tier": 3,
-      "oocName": "",
-      "social": {}
-    },
-    {
-      "id": "enjoy",
-      "name": "Enjoy",
-      "role": "Hand of the Table",
-      "tier": 3,
-      "oocName": "",
+      "discordId": "258894706992349184",
+      "imageUrl": "",
       "social": {}
     },
     {
@@ -98,6 +258,18 @@
       "role": "Hand of the Table",
       "tier": 3,
       "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
+      "social": {}
+    },
+    {
+      "id": "cung",
+      "name": "Cung",
+      "role": "Hand of the Table",
+      "tier": 3,
+      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
     {
@@ -106,15 +278,28 @@
       "role": "Hand of the Table",
       "tier": 3,
       "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
-
     {
-      "id": "catherine",
-      "name": "Catherine",
-      "role": "Head of Intel",
-      "tier": 4,
+      "id": "enjoy",
+      "name": "Enjoy",
+      "role": "Hand of the Table",
+      "tier": 3,
       "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
+      "social": {}
+    },
+    {
+      "id": "ace",
+      "name": "Ace",
+      "role": "Hand of the Table",
+      "tier": 3,
+      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
     {
@@ -123,6 +308,18 @@
       "role": "Head of Intel",
       "tier": 4,
       "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
+      "social": {}
+    },
+    {
+      "id": "catherine",
+      "name": "Catherine",
+      "role": "Head of Intel",
+      "tier": 4,
+      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
     {
@@ -131,14 +328,8 @@
       "role": "Head of Enforcement",
       "tier": 4,
       "oocName": "",
-      "social": {}
-    },
-    {
-      "id": "makoto",
-      "name": "Makoto",
-      "role": "Head of Arms",
-      "tier": 4,
-      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
     {
@@ -147,14 +338,18 @@
       "role": "Head of Arms",
       "tier": 4,
       "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
     {
-      "id": "ical",
-      "name": "Ical",
-      "role": "Head of Comms",
+      "id": "makoto",
+      "name": "Makoto",
+      "role": "Head of Arms",
       "tier": 4,
       "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
     {
@@ -163,6 +358,18 @@
       "role": "Head of Comms",
       "tier": 4,
       "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
+      "social": {}
+    },
+    {
+      "id": "ical",
+      "name": "Ical",
+      "role": "Head of Comms",
+      "tier": 4,
+      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
     {
@@ -171,15 +378,18 @@
       "role": "Adjudicator",
       "tier": 4,
       "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
-
     {
       "id": "aang",
       "name": "Aang",
       "role": "The Cleaner",
       "tier": 5,
       "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
     {
@@ -188,30 +398,8 @@
       "role": "The Cleaner",
       "tier": 5,
       "oocName": "",
-      "social": {}
-    },
-    {
-      "id": "kipli",
-      "name": "Kipli",
-      "role": "Hitman",
-      "tier": 5,
-      "oocName": "",
-      "social": {}
-    },
-    {
-      "id": "matthew",
-      "name": "Matthew",
-      "role": "Hitman",
-      "tier": 5,
-      "oocName": "",
-      "social": {}
-    },
-    {
-      "id": "paco",
-      "name": "Paco",
-      "role": "Hitman",
-      "tier": 5,
-      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
     {
@@ -220,14 +408,8 @@
       "role": "Hitman",
       "tier": 5,
       "oocName": "",
-      "social": {}
-    },
-    {
-      "id": "ruby",
-      "name": "Ruby",
-      "role": "Hitman",
-      "tier": 5,
-      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
     {
@@ -236,6 +418,28 @@
       "role": "Hitman",
       "tier": 5,
       "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
+      "social": {}
+    },
+    {
+      "id": "matthew",
+      "name": "Matthew",
+      "role": "Hitman",
+      "tier": 5,
+      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
+      "social": {}
+    },
+    {
+      "id": "paco",
+      "name": "Paco",
+      "role": "Hitman",
+      "tier": 5,
+      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
     {
@@ -244,31 +448,42 @@
       "role": "Hitman",
       "tier": 5,
       "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
-
+    {
+      "id": "kipli",
+      "name": "Kipli",
+      "role": "Hitman",
+      "tier": 5,
+      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
+      "social": {}
+    },
+    {
+      "id": "ruby",
+      "name": "Ruby",
+      "role": "Hitman",
+      "tier": 5,
+      "oocName": "",
+      "discordId": "786830147395125258",
+      "imageUrl": "",
+      "social": {
+        "youtube": "",
+        "instagram": "",
+        "tiktok": "https://www.tiktok.com/@rubychu666"
+      }
+    },
     {
       "id": "demi",
       "name": "Demi",
       "role": "Raven",
       "tier": 6,
       "oocName": "",
-      "social": {}
-    },
-    {
-      "id": "jane",
-      "name": "Jane",
-      "role": "Raven",
-      "tier": 6,
-      "oocName": "",
-      "social": {}
-    },
-    {
-      "id": "rival",
-      "name": "Rival",
-      "role": "Raven",
-      "tier": 6,
-      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
     {
@@ -277,14 +492,28 @@
       "role": "Raven",
       "tier": 6,
       "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
     {
-      "id": "xing-rui",
-      "name": "Xing Rui",
+      "id": "jane",
+      "name": "Jane",
       "role": "Raven",
       "tier": 6,
       "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
+      "social": {}
+    },
+    {
+      "id": "rival",
+      "name": "Rival",
+      "role": "Raven",
+      "tier": 6,
+      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
     {
@@ -293,31 +522,18 @@
       "role": "Raven",
       "tier": 6,
       "oocName": "",
-      "social": {}
-    },
-
-    {
-      "id": "iky",
-      "name": "Iky",
-      "role": "Shadow",
-      "tier": 6,
-      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
     {
-      "id": "jocelyn",
-      "name": "Jocelyn",
-      "role": "Shadow",
+      "id": "xing-rui",
+      "name": "Xing Rui",
+      "role": "Raven",
       "tier": 6,
       "oocName": "",
-      "social": {}
-    },
-    {
-      "id": "massimo",
-      "name": "Massimo",
-      "role": "Shadow",
-      "tier": 6,
-      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
     {
@@ -326,15 +542,38 @@
       "role": "Shadow",
       "tier": 6,
       "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
-
     {
-      "id": "dixie",
-      "name": "Dixie",
-      "role": "Enforcer",
+      "id": "iky",
+      "name": "Iky",
+      "role": "Shadow",
       "tier": 6,
       "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
+      "social": {}
+    },
+    {
+      "id": "jocelyn",
+      "name": "Jocelyn",
+      "role": "Shadow",
+      "tier": 6,
+      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
+      "social": {}
+    },
+    {
+      "id": "massimo",
+      "name": "Massimo",
+      "role": "Shadow",
+      "tier": 6,
+      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
     {
@@ -343,6 +582,18 @@
       "role": "Enforcer",
       "tier": 6,
       "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
+      "social": {}
+    },
+    {
+      "id": "dixie",
+      "name": "Dixie",
+      "role": "Enforcer",
+      "tier": 6,
+      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
     {
@@ -351,6 +602,8 @@
       "role": "Enforcer",
       "tier": 6,
       "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
     {
@@ -359,39 +612,8 @@
       "role": "Enforcer",
       "tier": 6,
       "oocName": "",
-      "social": {}
-    },
-
-    {
-      "id": "cimory",
-      "name": "Cimory",
-      "role": "New Recruit",
-      "tier": 7,
-      "oocName": "",
-      "social": {}
-    },
-    {
-      "id": "flashbang",
-      "name": "Flashbang",
-      "role": "New Recruit",
-      "tier": 7,
-      "oocName": "",
-      "social": {}
-    },
-    {
-      "id": "jay",
-      "name": "Jay",
-      "role": "New Recruit",
-      "tier": 7,
-      "oocName": "",
-      "social": {}
-    },
-    {
-      "id": "kentang",
-      "name": "Kentang",
-      "role": "New Recruit",
-      "tier": 7,
-      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
     {
@@ -400,6 +622,18 @@
       "role": "New Recruit",
       "tier": 7,
       "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
+      "social": {}
+    },
+    {
+      "id": "flashbang",
+      "name": "Flashbang",
+      "role": "New Recruit",
+      "tier": 7,
+      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
     {
@@ -408,6 +642,28 @@
       "role": "New Recruit",
       "tier": 7,
       "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
+      "social": {}
+    },
+    {
+      "id": "kentang",
+      "name": "Kentang",
+      "role": "New Recruit",
+      "tier": 7,
+      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
+      "social": {}
+    },
+    {
+      "id": "jay",
+      "name": "Jay",
+      "role": "New Recruit",
+      "tier": 7,
+      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
     {
@@ -416,31 +672,28 @@
       "role": "New Recruit",
       "tier": 7,
       "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
-
+    {
+      "id": "cimory",
+      "name": "Cimory",
+      "role": "New Recruit",
+      "tier": 7,
+      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
+      "social": {}
+    },
     {
       "id": "eve",
       "name": "Eve",
       "role": "Assistant",
       "tier": 8,
       "oocName": "",
-      "social": {}
-    },
-    {
-      "id": "gebu",
-      "name": "Gebu",
-      "role": "Assistant",
-      "tier": 8,
-      "oocName": "",
-      "social": {}
-    },
-    {
-      "id": "mealyn",
-      "name": "Mealyn",
-      "role": "Assistant",
-      "tier": 8,
-      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
     {
@@ -449,23 +702,28 @@
       "role": "Assistant",
       "tier": 8,
       "oocName": "",
-      "social": {}
-    },
-
-    {
-      "id": "mochi",
-      "name": "Mochi",
-      "role": "Children",
-      "tier": 9,
-      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
     {
-      "id": "rea",
-      "name": "Rea",
-      "role": "Children",
-      "tier": 9,
+      "id": "gebu",
+      "name": "Gebu",
+      "role": "Assistant",
+      "tier": 8,
       "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
+      "social": {}
+    },
+    {
+      "id": "mealyn",
+      "name": "Mealyn",
+      "role": "Assistant",
+      "tier": 8,
+      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     },
     {
@@ -474,6 +732,28 @@
       "role": "Children",
       "tier": 9,
       "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
+      "social": {}
+    },
+    {
+      "id": "rea",
+      "name": "Rea",
+      "role": "Children",
+      "tier": 9,
+      "oocName": "",
+      "discordId": "333202010201391104",
+      "imageUrl": "",
+      "social": {}
+    },
+    {
+      "id": "mochi",
+      "name": "Mochi",
+      "role": "Children",
+      "tier": 9,
+      "oocName": "",
+      "discordId": "",
+      "imageUrl": "",
       "social": {}
     }
   ]

@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "title": "About High Table",
+    "subtitle": "The highest governing authority of the criminal underworld",
+    "lastUpdated": "2026-01-17"
+  },
+  "sections": [
+    {
+      "id": "purpose",
+      "title": "Our Purpose",
+      "icon": "shield",
+      "content": "High Table di IME Roleplay bukan sekadar geng biasa, melainkan dewan tertinggi yang menjaga stabilitas dunia kriminal di dalam kota. Kami adalah regulator, hakim, dan penggerak cerita yang memastikan setiap konflik tetap dalam koridor aturan yang telah ditetapkan."
+    },
+    {
+      "id": "functions",
+      "title": "Core Functions",
+      "icon": "list",
+      "items": [
+        {
+          "title": "Pemberi Izin Operasional",
+          "description": "Mengatur organisasi mana yang boleh berdiri dan melakukan kegiatan kriminal besar agar tidak terjadi kekacauan yang merusak ekosistem roleplay."
+        },
+        {
+          "title": "Penengah Konflik",
+          "description": "Menjadi hakim dalam perselisihan antar-geng (war) untuk memastikan konflik tetap mengikuti aturan main (rules) server."
+        },
+        {
+          "title": "Inisiator Storyline",
+          "description": "Seringkali High Table menjadi penggerak Main Story yang melibatkan seluruh pemain, seperti skenario perampokan bank besar atau misi-misi khusus dengan hadiah besar."
+        }
+      ]
+    },
+    {
+      "id": "exclusivity",
+      "title": "Eksklusivitas",
+      "icon": "lock",
+      "content": "Keanggotaan di High Table bersifat sangat tertutup dan biasanya diisi oleh roleplayer veteran atau mereka yang memiliki pengaruh besar dalam alur cerita. Bagi pemain biasa (sipil atau geng kecil), High Table adalah sosok yang harus dihormati atau ditakuti."
+    }
+  ],
+  "quote": {
+    "text": "Power is not taken. It is granted.",
+    "attribution": "High Table Doctrine"
+  },
+  "structure": {
+    "title": "Organizational Structure",
+    "description": "The High Table operates through a strict hierarchical system, ensuring order and efficiency",
+    "tiers": [
+      {
+        "level": 1,
+        "name": "Supreme Authority",
+        "roles": ["Godfather"],
+        "description": "The ultimate decision maker"
+      },
+      {
+        "level": 2,
+        "name": "Core Council",
+        "roles": ["Consigliere", "Keeper of Coins"],
+        "description": "Strategic advisors and financial oversight"
+      },
+      {
+        "level": 3,
+        "name": "Executive Hands",
+        "roles": ["Hand of the Table"],
+        "description": "Direct executors of the Table's will"
+      },
+      {
+        "level": 4,
+        "name": "Department Heads",
+        "roles": ["Head of Intel", "Head of Enforcement", "Head of Arms", "Head of Comms"],
+        "description": "Leaders of specialized divisions"
+      }
+    ]
+  }
+}
