@@ -197,7 +197,7 @@
       "name": "Aheng",
       "role": "Consigliere",
       "tier": 2,
-      "oocName": "",
+      "oocName": "Mas Aheng",
       "discordId": "",
       "imageUrl": "",
       "social": {
@@ -211,9 +211,9 @@
       "name": "Mbappe",
       "role": "Consigliere",
       "tier": 2,
-      "oocName": "",
-      "discordId": "",
-      "imageUrl": "",
+      "oocName": "Rio Djaja",
+      "discordId": "596250349346488320",
+      "imageUrl": "https://cdn.discordapp.com/attachments/1370261439947866122/1447708576314556436/218_269.jpg?ex=696cae6d&is=696b5ced&hm=7f6d2ff1764284b94da54f253e324f78dcd18735fecabfa6e9e3fcd7f0cc1e3f&",
       "social": {
         "youtube": "https://youtube.com/",
         "instagram": "https://www.instagram.com/",
@@ -221,17 +221,17 @@
       }
     },
     {
-      "id": "lilis",
-      "name": "Lilis",
+      "id": "leassa",
+      "name": "Leassa Mishima",
       "role": "Consigliere",
       "tier": 2,
-      "oocName": "",
-      "discordId": "",
-      "imageUrl": "",
+      "oocName": "Putri Bali",
+      "discordId": "675209778120884225",
+      "imageUrl": "https://cdn.discordapp.com/attachments/948210370374422588/1459017346701201539/218_20260109104529_1.png?ex=696c4b4a&is=696af9ca&hm=fdc8d1cb82f73eaf6a24364adcb95e6b7778f03d7cce064be83d3059c111281b&",
       "social": {
-        "youtube": "https://youtube.com/",
-        "instagram": "https://www.instagram.com/",
-        "tiktok": "https://www.tiktok.com/"
+        "youtube": "https://www.youtube.com/c/putrirp",
+        "instagram": "https://www.instagram.com/putribali.id/",
+        "tiktok": "https://www.tiktok.com/@putribali.id"
       }
     },
     {
