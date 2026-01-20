@@ -2,31 +2,10 @@
   "gallery": [
     {
       "id": 1,
-      "title": "The Council Gathering",
-      "description": "Annual meeting of all division heads",
-      "image": "/gallery/1.jpg",
-      "date": "2025-01-15"
-    },
-    {
-      "id": 2,
-      "title": "Night Operations",
-      "description": "Covert mission in the city",
-      "image": "/gallery/2.jpg",
-      "date": "2025-01-15"
-    },
-    {
-      "id": 3,
-      "title": "War Settlement",
-      "description": "Mediation between two major factions",
-      "image": "/gallery/3.jpg",
-      "date": "2025-01-15"
-    },
-    {
-      "id": 4,
-      "title": "Initiation Ceremony",
-      "description": "New recruits joining the table",
-      "image": "/gallery/4.jpg",
-      "date": "2025-01-15"
+      "title": "Bewok Kun",
+      "description": "Columbina❌  Deleyna✅",
+      "image": "https://cdn.discordapp.com/attachments/1370261439947866122/1462695920163491983/IMG_20260119_132855.jpg?ex=697072ba&is=696f213a&hm=1142740bdbe52338b28e9b8430e60e2bafbacb0c470d9613523577c16ac9f1b0&",
+      "date": "2026-01-20"
     }
   ]
 }
