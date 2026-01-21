@@ -1,0 +1,331 @@
+{
+  "meta": {
+    "title": "Gangs Under High Table",
+    "description": "Organized criminal factions operating under High Table authority",
+    "lastUpdated": "2026-01-21T00:00:00Z"
+  },
+  "gangs": [
+    {
+      "id": "rcmc",
+      "name": "RAZOR CLAW MC",
+      "shortName": "RCMC",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "fog",
+      "name": "F O G",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "51reaver",
+      "name": "51 REAVER",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "138s",
+      "name": "138s BAD BLOCK",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "lenchmob",
+      "name": "LENCHMOB 108ST",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "bmc",
+      "name": "BMC",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "8pentagon",
+      "name": "8PENTAGON",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "dobrak",
+      "name": "DOBRAK STREET GANG",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "rdmc",
+      "name": "RDMC",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "allstar",
+      "name": "ALLSTAR",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "mx69",
+      "name": "MX 69",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "nightrunner",
+      "name": "NIGHT RUNNER",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "royalsyndicate",
+      "name": "ROYAL SYNDICATE",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "nocturnnoir",
+      "name": "NOCTURN NOIR",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "rsg",
+      "name": "RSG",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "brutal",
+      "name": "BRUTAL OF ANARCHY",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "pp",
+      "name": "PINK PANTHER",
+      "shortName": "PP",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "rage",
+      "name": "R.A.G.E",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "burgenk",
+      "name": "BURGENK",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "cc",
+      "name": "CRIMSON CREED",
+      "shortName": "CC",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "mugen",
+      "name": "MUGEN TOKYO",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "dw",
+      "name": "DW",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "dcmc",
+      "name": "DCMC",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "whitehand",
+      "name": "WHITE HAND",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "blackdragons",
+      "name": "BLACK DRAGON'S",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "raidmc",
+      "name": "THE RAID MC",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "whitetiger",
+      "name": "WHITE TIGER",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "oldnorse",
+      "name": "THE OLD NORSE",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "cbmc",
+      "name": "CBMC",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "4bloods",
+      "name": "4BLOOD'S",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "bfl",
+      "name": "BFL",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "hth",
+      "name": "HTH",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "sinister",
+      "name": "SINISTER",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "dsr",
+      "name": "DSR",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "zt",
+      "name": "ZERO TOLERANCE",
+      "shortName": "ZT",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "5tar",
+      "name": "5TAR",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "msf",
+      "name": "MSF",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "30sfams",
+      "name": "30S FAMS",
+      "status": "official",
+      "logo": null
+    },
+    {
+      "id": "huanglong",
+      "name": "HUANGLONG",
+      "status": "unofficial",
+      "logo": null
+    },
+    {
+      "id": "lotf",
+      "name": "LOTF",
+      "status": "unofficial",
+      "logo": null
+    },
+    {
+      "id": "ucsg",
+      "name": "UCSG",
+      "status": "unofficial",
+      "logo": null
+    },
+    {
+      "id": "outlaws",
+      "name": "OUTLAWS MC",
+      "status": "unofficial",
+      "logo": null
+    },
+    {
+      "id": "sos",
+      "name": "SOS",
+      "status": "unofficial",
+      "logo": null
+    },
+    {
+      "id": "nmc",
+      "name": "NMC",
+      "status": "unofficial",
+      "logo": null
+    },
+    {
+      "id": "lv",
+      "name": "LV",
+      "status": "unofficial",
+      "logo": null
+    },
+    {
+      "id": "b2f",
+      "name": "B2F",
+      "status": "unofficial",
+      "logo": null
+    },
+    {
+      "id": "foundation",
+      "name": "THE FOUNDATION",
+      "status": "terdata",
+      "logo": null
+    },
+    {
+      "id": "cfs",
+      "name": "CFS",
+      "status": "terdata",
+      "logo": null
+    },
+    {
+      "id": "kurotsuki",
+      "name": "KUROTSUKI",
+      "status": "terdata",
+      "logo": null
+    },
+    {
+      "id": "bom",
+      "name": "BOM",
+      "status": "terdata",
+      "logo": null
+    },
+    {
+      "id": "hws",
+      "name": "HWS",
+      "status": "terdata",
+      "logo": null
+    },
+    {
+      "id": "ol",
+      "name": "OL",
+      "status": "terdata",
+      "logo": null
+    },
+    {
+      "id": "lcr",
+      "name": "LCR",
+      "status": "terdata",
+      "logo": null
+    }
+  ]
+}
